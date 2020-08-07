@@ -3,6 +3,6 @@
 
 int main()
 {
-    std::cout << "Hello World this is a new branch!. Shal we try a rebase?\n";
+    std::cout << "Hello World this is a new branch!. Shall we try a rebase?\n";
 }
 
